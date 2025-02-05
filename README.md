@@ -35,6 +35,8 @@ The datasets can be obtained by unzipping "Datasets.zip".
 # Usage
 Open the console or powershell in the local folder and copy the following command to run PlncRNA-HDeep.
 
+# Output
+
 ![image](https://github.com/user-attachments/assets/b00c08e1-65b3-42b6-ac80-6ef24d9549c0)
 ![image](https://github.com/user-attachments/assets/840ca233-17d4-4fc0-a931-223a04c9d36f)
 ![image](https://github.com/user-attachments/assets/6de000a5-1d24-4b38-9742-c0c24e89a20d)
