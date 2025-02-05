@@ -33,15 +33,16 @@ The datasets can be obtained by unzipping "Datasets.zip".
 # Usage
 Open the console or powershell in the local folder and copy the following command to run PlncRNA-HDeep.
 
-command: python PlncRNA-HDeep.py
+![image](https://github.com/user-attachments/assets/b00c08e1-65b3-42b6-ac80-6ef24d9549c0)
+![image](https://github.com/user-attachments/assets/840ca233-17d4-4fc0-a931-223a04c9d36f)
+![image](https://github.com/user-attachments/assets/6de000a5-1d24-4b38-9742-c0c24e89a20d)
+![image](https://github.com/user-attachments/assets/dfacd292-049e-4af5-bef9-8627f8527d73)
 
-This python script can also be directly run using python IDE such as pyCharm.
 
-Explanation: This is a script that repeats the experiment in the paper. This script includes two encoding styles and three hybrid strategies descripted in the paper to provide references for other related research. The input of the method are the sequences and labels of the samples. The output are test results, including true positive (TP), false positive (FP), true negative (TN), false negative(FN), sensitivity (TPR), specificity (TNR), preision (PPV), negative predictive value (NPV), false negative rate (FNR), false positive rate (FPR), false discovery rate (FDR), false omission rate (FOR), accuracy (ACC), F1 score (F1), matthews correlation coefficient (MCC), bookmaker informedness (BM) and Markedness (MK).
 
-We will upload the trained models as soon as possible in the next version, and provide the codes and commands for users to directly predict lncRNA.
 
-# Reference
-If you use the codes, please cite the reference as below.
 
-Jun Meng, Qiang Kang, Zheng Chang, Yushi Luan. PlncRNA-HDeep: plant long noncoding RNA prediction using hybrid deep learning based on two encoding styles. BMC Bioinformatics, 2021, 22:242. https://doi.org/10.1186/s12859-020-03870-2
+
+
+
+
