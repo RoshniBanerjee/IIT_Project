@@ -3,7 +3,6 @@
 # PlncRNA-HDeep
 The related datasets and scoure codes of PlncRNA-HDeep are provided by Q. Kang.
 
-The latest version is updated on May 25, 2021
 
 # Introduction
 PlncRNA-HDeep is a method using hybrid deep leaning based on two encoding styles for plant lncRNA prediction. It is implemented by Keras and all main scripts are written by Python on PC under a Microsoft Windows 10 operating system.
